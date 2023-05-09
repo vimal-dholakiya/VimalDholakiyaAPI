@@ -1,0 +1,23 @@
+<resources>
+    <string name="admob_app_id">a</string>
+    <string name="admob_banner_id1">a</string>
+    <string name="admob_banner_id2">a</string>
+    <string name="admob_banner_id3">a</string>
+    <string name="admob_inter_id1">a</string>
+    <string name="admob_inter_id2">a</string>
+    <string name="admob_inter_id3">a</string>
+    <string name="admob_app_open_id1">a</string>
+    <string name="admob_app_open_id2">a</string>
+    <string name="admob_app_open_id3">a</string>
+    <string name="admob_native_id1">a</string>
+    <string name="admob_native_id2">a</string>
+    <string name="admob_native_id3">a</string>
+    <string name="admob_rewarded_id1">a</string>
+    <string name="admob_rewarded_id2">a</string>
+    <string name="admob_rewarded_id3">a</string>
+    <string name="admob_rewarded_inter_id1">a</string>
+    <string name="admob_rewarded_inter_id2">a</string>
+    <string name="admob_rewarded_inter_id3">a</string>
+
+    <string name="fb_inter_id1">YOUR_PLACEMENT_ID</string>
+</resources>
