@@ -1,3 +1,3 @@
-rootProject.name = "API ADS"
+rootProject.name = "VimalDholakiyaAPI"
 include ':app'
 include ':VimalAPI'
